@@ -1,7 +1,8 @@
-45c6b5f59e3bc3730ad54bbf8dbb0607 *DESCRIPTION
-8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
-fc4d413a960ddbc8658361aa1a140bcc *R/module.R
+dc1c9a82e5a8b149122d139c247fdffb *DESCRIPTION
+00e9ae18c052f05c0edeb30eec13226d *NAMESPACE
+417104d8383ed174d0a5a88d5f498109 *R/module.R
+24a88a390e7289f622ae72155402e509 *README.md
 688f1183b6aab16666dee3f1b80f8869 *data/myEnvModules.rda
-5d39d09d29f35c9b1ff63866b5694896 *man/module.Rd
-1dfec91142ce8ec45e0c04f07afd1061 *man/moduleload.Rd
-3dea801c91eb032e0728a214d9565b37 *man/myEnvModules.Rd
+1eed34ee44941dfc600af124fcdcbbcc *man/RenvModule-class.Rd
+adde00354af7320c7ef9ce0677d22bf3 *man/module.Rd
+ea19841810189974dff66f4b44ad6696 *man/myEnvModules.Rd
